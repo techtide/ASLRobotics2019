@@ -7,3 +7,6 @@ The folder directory struture:
     * -> experiment_name
       * -> Classfiles, etc
   * -> Other
+
+
+Both RoboRIO's should have the team number set to 1884, until competition.
